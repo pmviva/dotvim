@@ -1,0 +1,4 @@
+# Gitignore configuration file
+
+# Ignore gutentags
+gutentags/
