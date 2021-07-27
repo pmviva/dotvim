@@ -1,0 +1,18 @@
+[submodule "pack/pmviva/start/vim-colorschemes"]
+	path = pack/pmviva/start/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "pack/pmviva/start/vim-editorconfig"]
+	path = pack/pmviva/start/vim-editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/pmviva/start/vim-flagship"]
+	path = pack/pmviva/start/vim-flagship
+	url = https://github.com/tpope/vim-flagship.git
+[submodule "pack/pmviva/start/vim-fugitive"]
+	path = pack/pmviva/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/pmviva/start/vim-git"]
+	path = pack/pmviva/start/vim-git
+	url = https://github.com/tpope/vim-git.git
+[submodule "pack/pmviva/start/vim-sensible"]
+	path = pack/pmviva/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
